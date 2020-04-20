@@ -1,0 +1,25 @@
+{
+  "name": "express-assoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zedaeen/express-assoc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zedaeen/express-assoc/issues"
+  },
+  "homepage": "https://github.com/zedaeen/express-assoc#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.0.2",
+    "sequelize": "^5.21.6"
+  }
+}
